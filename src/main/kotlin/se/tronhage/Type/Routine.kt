@@ -2,7 +2,6 @@ package se.tronhage.Type
 
 import jakarta.persistence.Entity
 import jakarta.persistence.Id
-import java.util.*
 
 @Entity
 data class Routine(
